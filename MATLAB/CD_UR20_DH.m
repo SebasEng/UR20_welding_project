@@ -116,4 +116,5 @@ fprintf('\n--- 3. Resultados Finales ---\ n');
 fprintf('Matriz de Transformación Homogénea Final (CD) calculada:\n');
 disp(CD);
 
+
 fprintf('\n*Fin de script combinado*\n');
